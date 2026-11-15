@@ -1,0 +1,14 @@
+gap  h      placement      [1,4)      [1,5)      [5,9)
+ 25  1000  below grease   1.19e-05   6.55e-05   3.21e-03
+ 25  1000  above grease   1.68e-06   1.11e-05   1.32e-03
+ 25  8000  below grease   1.17e-05   6.21e-05   2.76e-03
+ 25  8000  above grease   1.68e-06   1.09e-05   1.19e-03
+ 40  1000  below grease   3.34e-07   3.99e-06   6.42e-04
+ 40  1000  above grease   3.86e-08   6.01e-07   2.46e-04
+ 40  8000  below grease   3.39e-07   3.76e-06   5.41e-04
+ 40  8000  above grease   3.95e-08   5.79e-07   2.15e-04
+ 55  1000  below grease   4.89e-09   1.97e-07   1.11e-04
+ 55  1000  above grease   5.62e-10   2.77e-08   3.98e-05
+ 55  8000  below grease   5.02e-09   1.74e-07   9.03e-05
+ 55  8000  above grease   5.79e-10   2.52e-08   3.36e-05
+maximum over all: [1,4) 1.19e-05  [1,5) 6.55e-05  [5,9) 3.21e-03

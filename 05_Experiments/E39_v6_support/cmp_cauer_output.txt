@@ -1,0 +1,54 @@
+D:\Projects\SIC Soft Sensing\05_Experiments\E39_v6_support\..\..\src\wcoh.py:19: ComplexWarning: Casting complex values to real discards the imaginary part
+  out[i] = np.fft.ifft(np.fft.fft(X[i]) * np.exp(-0.5 * (s / dt) ** 2 * f ** 2))
+ 0 fault 0 side 2 truth 1.086 | static  -3.05 wavelet  -1.07 twotemp  +0.38 slope  +1.36 v6  -0.64 calib  -2.34
+ 1 fault 0 side 2 truth 0.992 | static  -1.61 wavelet  +0.82 twotemp  +0.42 slope  -2.34 v6  +0.01 calib  -1.81
+ 2 fault 0 side 2 truth 1.183 | static  -4.14 wavelet  -1.17 twotemp  -0.46 slope  -0.47 v6  -0.01 calib  -2.61
+ 3 fault 1 side 1 truth 0.932 | static  +6.03 wavelet +15.32 twotemp +17.63 slope  +6.95 v6 +12.66 calib  +6.75 | v6 abstains
+ 4 fault 0 side 1 truth 1.069 | static  +1.15 wavelet  -0.74 twotemp  -0.69 slope  -1.94 v6  -0.47 calib  +0.75
+ 5 fault 0 side 1 truth 1.147 | static  +5.02 wavelet  -0.74 twotemp  -3.75 slope  +3.13 v6  -0.17 calib  +6.71
+ 6 fault 1 side 1 truth 0.848 | static +14.85 wavelet +10.73 twotemp +10.83 slope  +5.99 v6 +11.82 calib +12.29 | v6 abstains
+ 7 fault 0 side 1 truth 0.925 | static  +6.45 wavelet  -0.98 twotemp  -0.24 slope  -0.18 v6  +0.46 calib  +4.83
+ 8 fault 1 side 2 truth 0.846 | static -24.54 wavelet -19.69 twotemp -19.71 slope -10.87 v6 -18.78 calib -27.03 | v6 abstains
+ 9 fault 0 side 1 truth 0.998 | static  +6.20 wavelet  +0.66 twotemp  -0.50 slope  -1.09 v6  +0.07 calib  +5.56
+10 fault 0 side 2 truth 0.948 | static  +2.42 wavelet  +0.41 twotemp  -0.80 slope  +1.23 v6  +0.41 calib  +1.81
+11 fault 0 side 2 truth 0.958 | static  -8.10 wavelet  +0.12 twotemp  -0.08 slope  +1.63 v6  -0.22 calib  -8.10
+12 fault 1 side 1 truth 0.885 | static  +1.42 wavelet +23.73 twotemp +22.12 slope  +9.29 v6 +18.43 calib  +4.52 | v6 abstains
+13 fault 1 side 1 truth 0.880 | static +37.16 wavelet +25.17 twotemp +25.28 slope +12.00 v6 +24.62 calib +37.25 | v6 abstains
+14 fault 0 side 1 truth 0.944 | static  -4.85 wavelet  +0.39 twotemp  +0.53 slope  -2.76 v6  +0.22 calib  -3.32
+15 fault 0 side 1 truth 0.832 | static  +8.68 wavelet  +0.08 twotemp  +0.88 slope  -2.41 v6  -0.21 calib  +6.34
+16 fault 1 side 1 truth 0.993 | static +14.19 wavelet +16.89 twotemp +17.20 slope  +4.44 v6 +14.40 calib +16.54 | v6 abstains
+17 fault 0 side 1 truth 1.202 | static  +1.31 wavelet  -0.97 twotemp  -1.11 slope  -0.76 v6  -1.01 calib  +2.82
+18 fault 1 side 1 truth 1.151 | static  +5.21 wavelet +15.38 twotemp +18.45 slope  +4.08 v6 +12.35 calib  +9.11 | v6 abstains
+19 fault 1 side 2 truth 1.186 | static -20.70 wavelet -15.48 twotemp -21.19 slope  -3.42 v6 -16.81 calib -20.32 | v6 abstains
+20 fault 1 side 1 truth 0.953 | static +28.35 wavelet +16.56 twotemp +20.09 slope  +1.91 v6 +16.41 calib +28.10 | v6 abstains
+21 fault 0 side 1 truth 1.004 | static  +3.72 wavelet  +0.08 twotemp  -0.74 slope  -0.17 v6  +0.30 calib  +2.07
+22 fault 0 side 2 truth 1.046 | static  +7.71 wavelet  -0.16 twotemp  -1.25 slope  +0.87 v6  +0.71 calib  +7.61
+23 fault 1 side 2 truth 0.935 | static  -9.67 wavelet -16.15 twotemp -14.93 slope -10.14 v6 -14.08 calib -13.10
+24 fault 0 side 2 truth 0.835 | static  +4.54 wavelet  +0.66 twotemp  +0.15 slope  -0.51 v6  +0.93 calib  +1.64
+25 fault 0 side 2 truth 0.944 | static  +5.05 wavelet  -1.12 twotemp  -0.66 slope  -0.20 v6  +0.16 calib  +3.31
+26 fault 0 side 1 truth 0.993 | static  -0.28 wavelet  +0.30 twotemp  +0.17 slope  -0.46 v6  -0.67 calib  -1.11
+27 fault 0 side 2 truth 0.864 | static  +1.13 wavelet  +0.96 twotemp  -0.18 slope  +3.47 v6  +0.98 calib  +0.15
+28 fault 1 side 1 truth 0.931 | static  +9.02 wavelet +17.91 twotemp +17.02 slope  +9.31 v6 +15.06 calib +11.33 | v6 abstains
+29 fault 0 side 2 truth 1.165 | static  -2.80 wavelet  +0.30 twotemp  +1.25 slope  +0.42 v6  -0.98 calib  -0.99
+30 fault 0 side 1 truth 0.993 | static  -5.63 wavelet  +0.48 twotemp  +1.21 slope  -0.44 v6  -0.00 calib  -5.93
+31 fault 0 side 2 truth 1.008 | static  -0.39 wavelet  -0.36 twotemp  +0.73 slope  -1.49 v6  -0.18 calib  -0.54
+32 fault 0 side 1 truth 1.053 | static  -4.70 wavelet  -0.22 twotemp  +0.22 slope  -1.46 v6  -0.64 calib  -3.52
+33 fault 0 side 1 truth 0.994 | static  -2.29 wavelet  +0.69 twotemp  +0.39 slope  +1.82 v6  +0.60 calib  -2.46
+34 fault 0 side 1 truth 0.796 | static  +0.13 wavelet  +0.90 twotemp  +1.19 slope  +1.99 v6  +1.17 calib  -1.34
+35 fault 0 side 2 truth 1.069 | static  +2.08 wavelet  -1.32 twotemp  +0.01 slope  +0.82 v6  -0.22 calib  +2.79
+36 fault 0 side 1 truth 0.911 | static  -3.34 wavelet  -0.48 twotemp  +0.45 slope  +1.90 v6  +0.38 calib  -3.60
+37 fault 1 side 1 truth 1.125 | static +18.27 wavelet +15.35 twotemp +15.36 slope  +5.84 v6 +15.08 calib +21.53 | v6 abstains
+38 fault 0 side 2 truth 0.891 | static  +6.57 wavelet  +0.82 twotemp  +1.25 slope  +3.28 v6  +1.99 calib  +4.87
+39 fault 1 side 1 truth 0.884 | static +22.42 wavelet +16.15 twotemp +19.55 slope  -1.16 v6 +15.89 calib +24.07 | v6 abstains
+
+cauer: clean n 27, interface n 13 (errors in %)
+method   clean median within 3 % clean max iface median
+static           3.72       0.41      8.68         +9.0
+wavelet          0.66       1.00      1.32        +15.4
+twotemp          0.53       0.96      3.75        +17.2
+slope            1.36       0.89      3.47         +4.4
+v6               0.41       1.00      1.99        +14.4
+calib            2.79       0.56      8.10        +11.3
+v6 reported only: clean n 27 median 0.41, within 3 % 1.00; interface abstained 0.92, clean abstained 0.00
+interface faults of module 1: n 10, v6 abstained 10; median error % static +14.5 wavelet +16.4 twotemp +18.0 slope +5.9 v6 +15.1 calib +14.4
+interface faults of module 2: n 3, v6 abstained 2; median error % static -20.7 wavelet -16.2 twotemp -19.7 slope -10.1 v6 -16.8 calib -20.3

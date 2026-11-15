@@ -1,0 +1,18 @@
+Scenario: case-capacity level 2.0, baseline phase U, current phase W
+  module-1 loss scale 0.9880 -> 1.0899; cooling factor 1.116 -> 1.139; capacity factor 0.963; interface 1.00
+  sensor lags (s), module 1: [2.89 2.55 0.35 2.46], module 2: [2.22 0.84 2.62 0.16]
+  truth: loss ratio baseline 0.9885, now 1.0768, drift 1.0894
+
+Step 0, load steps and stability test (v6 uses one sensor set): (57, 53) steps; positions used ['T2', 'T3', 'T4'] ; flags ['T1: unstable over time (possible loose sensor), excluded']
+Step 1-3, per position: baseline map (6 Laguerre terms + direct term), scalar gain now, forward and reverse
+  T2: forward gain 1.08699, reverse gain 0.92506, log d = (ln 1.08699 - ln 0.92506)/2 = +0.08065 (d = 1.0840), jackknife sd 0.00954
+  T3: forward gain 1.08925, reverse gain 0.91925, log d = (ln 1.08925 - ln 0.91925)/2 = +0.08484 (d = 1.0885), jackknife sd 0.00860
+  T4: forward gain 1.09064, reverse gain 0.92287, log d = (ln 1.09064 - ln 0.92287)/2 = +0.08352 (d = 1.0871), jackknife sd 0.01213
+
+Step 4, random effects: Q = 0.108 (df 2), tau^2 = 0.00e+00, pooled log d = +0.08308, HKSJ factor q = 0.054 (floored at 1), se = 0.00565, t(0.975, 2) = 4.303
+  drift = exp(+0.08308) = 1.0866; 95 % interval exp(+0.08308 -/+ 0.02432) = [1.0605, 1.1134]
+
+Step 5, guards: slope-jump drift 1.0895; z_x = -0.03, shape z = -0.02 (abstain if either |z| > 2.241)
+Step 6, coupling: ln A = +0.05877, ln B = +0.10740; f^-1(y) = ln((e^y - 0.25)/(1 - 0.25 e^y)); f^-1(A) = +0.09799, f^-1(B) = +0.17930; widened outward only
+
+TRACE output: drift 1.0866, 95 % interval [1.0605, 1.1964], abstain False; error against truth -0.25 %

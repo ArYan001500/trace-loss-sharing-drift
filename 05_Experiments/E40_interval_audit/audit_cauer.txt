@@ -1,0 +1,4 @@
+cauer: clean reported n = 81; envelope factor 1/k = 1.6737 (c = 0.25, L = ln(1/0.85))
+  base: coverage 0.975   median half-width 1.57 %
+  v6  : coverage 1.000   median half-width 4.95 %
+  env : coverage 1.000   median half-width 4.98 %

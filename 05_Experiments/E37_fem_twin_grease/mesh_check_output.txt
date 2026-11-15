@@ -1,0 +1,7 @@
+cells 7, bottom faces 3, nodes 15295
+h 8000: own rise at 900 s 16.89 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0007 0.013 0.022 0.022
+cells 7, bottom faces 3, nodes 44488
+h 8000: own rise at 900 s 16.92 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0007 0.013 0.022 0.022
+own rise at 900 s: 16.8940 and 16.9179 mK/W (difference 0.14 %)
+settled coupling: 0.0224 and 0.0223
+largest relative difference of the own rise over 1-900 s: 0.49 %

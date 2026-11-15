@@ -1,0 +1,15 @@
+max |eig A| = 0.999929
+held-out open-loop check (fit 0-50 h, simulate 50-73 h): RMSE Q_h 0.46 K, Q_l 0.65 K; rise up to 72 / 68 K
+identified model, Q_h step: neighbour/own rise at 5, 30, 300, 3000 s: [np.float64(0.169), np.float64(0.351), np.float64(0.602), np.float64(0.636)]
+rep 0 truth 0.800: transfer drift 0.899 (+12.4 %), slope-jump drift 0.887 (+10.9 %)
+rep 0 truth 0.900: transfer drift 0.951 (+5.7 %), slope-jump drift 0.939 (+4.4 %)
+rep 0 truth 1.100: transfer drift 1.046 (-4.9 %), slope-jump drift 1.044 (-5.1 %)
+rep 0 truth 1.250: transfer drift 1.111 (-11.1 %), slope-jump drift 1.125 (-10.0 %)
+rep 1 truth 0.800: transfer drift 0.900 (+12.5 %), slope-jump drift 0.883 (+10.4 %)
+rep 1 truth 0.900: transfer drift 0.951 (+5.7 %), slope-jump drift 0.945 (+5.0 %)
+rep 1 truth 1.100: transfer drift 1.046 (-4.9 %), slope-jump drift 1.041 (-5.3 %)
+rep 1 truth 1.250: transfer drift 1.112 (-11.0 %), slope-jump drift 1.124 (-10.1 %)
+rep 2 truth 0.800: transfer drift 0.899 (+12.4 %), slope-jump drift 0.895 (+11.9 %)
+rep 2 truth 0.900: transfer drift 0.952 (+5.8 %), slope-jump drift 0.949 (+5.4 %)
+rep 2 truth 1.100: transfer drift 1.046 (-4.9 %), slope-jump drift 1.052 (-4.4 %)
+rep 2 truth 1.250: transfer drift 1.111 (-11.1 %), slope-jump drift 1.128 (-9.8 %)

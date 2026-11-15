@@ -1,0 +1,72 @@
+fem_g25_h1000_rb1_src1.csv
+cells 7, bottom faces 3, nodes 14758
+h 1000: own rise at 900 s 41.37 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0037 0.051 0.185 0.245
+fem_g25_h1000_rb1_src2.csv
+cells 7, bottom faces 3, nodes 14758
+h 1000: own rise at 900 s 41.36 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0036 0.050 0.185 0.245
+fem_g25_h1000_rb1.3_src1.csv
+cells 7, bottom faces 3, nodes 14758
+h 1000: own rise at 900 s 41.46 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0034 0.049 0.184 0.244
+fem_g25_h1000_rb1.3_src2.csv
+cells 7, bottom faces 3, nodes 14758
+h 1000: own rise at 900 s 41.37 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0036 0.050 0.184 0.245
+fem_g25_h8000_rb1_src1.csv
+cells 7, bottom faces 3, nodes 14758
+h 8000: own rise at 900 s 16.89 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0029 0.026 0.040 0.040
+fem_g25_h8000_rb1_src2.csv
+cells 7, bottom faces 3, nodes 14758
+h 8000: own rise at 900 s 16.89 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0029 0.026 0.040 0.040
+fem_g25_h8000_rb1.3_src1.csv
+cells 7, bottom faces 3, nodes 14758
+h 8000: own rise at 900 s 16.94 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0027 0.026 0.040 0.040
+fem_g25_h8000_rb1.3_src2.csv
+cells 7, bottom faces 3, nodes 14758
+h 8000: own rise at 900 s 16.89 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0029 0.026 0.039 0.039
+fem_g40_h1000_rb1_src1.csv
+cells 7, bottom faces 3, nodes 15295
+h 1000: own rise at 900 s 41.35 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0009 0.028 0.137 0.193
+fem_g40_h1000_rb1_src2.csv
+cells 7, bottom faces 3, nodes 15295
+h 1000: own rise at 900 s 41.36 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0009 0.028 0.137 0.193
+fem_g40_h1000_rb1.3_src1.csv
+cells 7, bottom faces 3, nodes 15295
+h 1000: own rise at 900 s 41.44 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0008 0.027 0.137 0.193
+fem_g40_h1000_rb1.3_src2.csv
+cells 7, bottom faces 3, nodes 15295
+h 1000: own rise at 900 s 41.36 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0009 0.027 0.137 0.193
+fem_g40_h8000_rb1_src1.csv
+cells 7, bottom faces 3, nodes 15295
+h 8000: own rise at 900 s 16.89 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0007 0.013 0.022 0.022
+fem_g40_h8000_rb1_src2.csv
+cells 7, bottom faces 3, nodes 15295
+h 8000: own rise at 900 s 16.90 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0007 0.013 0.022 0.022
+fem_g40_h8000_rb1.3_src1.csv
+cells 7, bottom faces 3, nodes 15295
+h 8000: own rise at 900 s 16.94 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0007 0.013 0.022 0.022
+fem_g40_h8000_rb1.3_src2.csv
+cells 7, bottom faces 3, nodes 15295
+h 8000: own rise at 900 s 16.90 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0007 0.013 0.022 0.022
+fem_g55_h1000_rb1_src1.csv
+cells 7, bottom faces 3, nodes 16033
+h 1000: own rise at 900 s 41.34 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0002 0.015 0.102 0.153
+fem_g55_h1000_rb1_src2.csv
+cells 7, bottom faces 3, nodes 16033
+h 1000: own rise at 900 s 41.33 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0002 0.015 0.102 0.153
+fem_g55_h1000_rb1.3_src1.csv
+cells 7, bottom faces 3, nodes 16033
+h 1000: own rise at 900 s 41.43 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0002 0.014 0.101 0.153
+fem_g55_h1000_rb1.3_src2.csv
+cells 7, bottom faces 3, nodes 16033
+h 1000: own rise at 900 s 41.33 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0002 0.014 0.102 0.153
+fem_g55_h8000_rb1_src1.csv
+cells 7, bottom faces 3, nodes 16033
+h 8000: own rise at 900 s 16.90 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0002 0.006 0.013 0.013
+fem_g55_h8000_rb1_src2.csv
+cells 7, bottom faces 3, nodes 16033
+h 8000: own rise at 900 s 16.89 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0002 0.006 0.013 0.013
+fem_g55_h8000_rb1.3_src1.csv
+cells 7, bottom faces 3, nodes 16033
+h 8000: own rise at 900 s 16.95 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0001 0.006 0.013 0.013
+fem_g55_h8000_rb1.3_src2.csv
+cells 7, bottom faces 3, nodes 16033
+h 8000: own rise at 900 s 16.89 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0002 0.006 0.012 0.013

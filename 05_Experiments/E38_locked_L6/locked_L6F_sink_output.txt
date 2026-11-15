@@ -1,0 +1,109 @@
+ 0 gap 40 h 8000 fault 0 side 1 truth 0.999 est 1.008 (+0.97 %) zx +0.68 shz -0.51 
+ 1 gap 55 h 8000 fault 0 side 1 truth 0.815 est 0.821 (+0.74 %) zx +0.77 shz -0.95 
+ 2 gap 40 h 8000 fault 1 side 1 truth 0.774 est 0.771 (-0.40 %) zx +4.95 shz -3.06 ABSTAIN response-shape change near a sensor (shape z -3.06); fast and wideband drift disagree (z_x +4.95)
+ 3 gap 55 h 1000 fault 0 side 2 truth 1.097 est 1.090 (-0.68 %) zx +0.61 shz -0.04 
+ 4 gap 40 h 8000 fault 0 side 2 truth 0.961 est 0.960 (-0.14 %) zx -0.07 shz -0.81 
+ 5 gap 55 h 1000 fault 1 side 2 truth 0.839 est 0.857 (+2.17 %) zx -4.68 shz +2.49 ABSTAIN response-shape change near a sensor (shape z +2.49); fast and wideband drift disagree (z_x -4.68)
+ 6 gap 25 h 1000 fault 1 side 1 truth 0.848 est 0.870 (+2.65 %) zx +3.41 shz -2.98 ABSTAIN response-shape change near a sensor (shape z -2.98); fast and wideband drift disagree (z_x +3.41)
+ 7 gap 40 h 8000 fault 0 side 1 truth 1.217 est 1.214 (-0.27 %) zx +0.48 shz -0.82 
+ 8 gap 40 h 1000 fault 1 side 2 truth 1.227 est 1.198 (-2.38 %) zx -4.68 shz +2.10 ABSTAIN fast and wideband drift disagree (z_x -4.68)
+ 9 gap 25 h 8000 fault 0 side 1 truth 0.998 est 1.003 (+0.46 %) zx +1.75 shz -1.24 
+10 gap 40 h 8000 fault 0 side 1 truth 0.919 est 0.919 (+0.04 %) zx -0.42 shz +0.42 
+11 gap 55 h 1000 fault 0 side 2 truth 1.089 est 1.079 (-0.89 %) zx -1.05 shz -0.76 
+12 gap 55 h 8000 fault 1 side 2 truth 1.095 est 1.106 (+1.00 %) zx -3.62 shz +2.57 ABSTAIN response-shape change near a sensor (shape z +2.57); fast and wideband drift disagree (z_x -3.62)
+13 gap 25 h 8000 fault 1 side 1 truth 1.159 est 1.142 (-1.49 %) zx +2.96 shz -2.18 ABSTAIN fast and wideband drift disagree (z_x +2.96)
+14 gap 25 h 1000 fault 0 side 2 truth 0.993 est 0.992 (-0.12 %) zx -0.77 shz +1.85 
+15 gap 25 h 8000 fault 0 side 1 truth 0.916 est 0.919 (+0.40 %) zx +0.18 shz +0.04 
+16 gap 25 h 8000 fault 1 side 2 truth 0.849 est 0.860 (+1.24 %) zx -1.98 shz +4.07 ABSTAIN response-shape change near a sensor (shape z +4.07)
+17 gap 55 h 1000 fault 1 side 2 truth 0.991 est 0.996 (+0.48 %) zx -2.80 shz +2.57 ABSTAIN response-shape change near a sensor (shape z +2.57); fast and wideband drift disagree (z_x -2.80)
+18 gap 25 h 8000 fault 1 side 1 truth 0.900 est 0.903 (+0.26 %) zx +5.32 shz -4.50 ABSTAIN response-shape change near a sensor (shape z -4.50); fast and wideband drift disagree (z_x +5.32)
+19 gap 40 h 1000 fault 1 side 1 truth 0.947 est 0.952 (+0.59 %) zx +5.17 shz -3.92 ABSTAIN response-shape change near a sensor (shape z -3.92); fast and wideband drift disagree (z_x +5.17)
+20 gap 40 h 8000 fault 1 side 1 truth 1.055 est 1.038 (-1.59 %) zx +4.03 shz -2.36 ABSTAIN response-shape change near a sensor (shape z -2.36); fast and wideband drift disagree (z_x +4.03)
+21 gap 55 h 1000 fault 0 side 2 truth 0.857 est 0.866 (+1.03 %) zx +0.80 shz -1.31 
+22 gap 40 h 8000 fault 0 side 2 truth 1.191 est 1.190 (-0.07 %) zx +0.11 shz +0.38 
+23 gap 25 h 1000 fault 0 side 1 truth 1.210 est 1.174 (-2.95 %) zx -0.70 shz -1.14 
+24 gap 40 h 1000 fault 0 side 1 truth 0.970 est 0.967 (-0.28 %) zx +0.17 shz -0.40 
+25 gap 40 h 1000 fault 0 side 1 truth 0.912 est 0.921 (+1.04 %) zx -0.21 shz -0.25 
+26 gap 55 h 1000 fault 0 side 2 truth 1.227 est 1.199 (-2.31 %) zx -1.71 shz +0.39 
+27 gap 55 h 1000 fault 1 side 2 truth 0.836 est 0.847 (+1.39 %) zx -3.08 shz +2.70 ABSTAIN response-shape change near a sensor (shape z +2.70); fast and wideband drift disagree (z_x -3.08)
+28 gap 55 h 1000 fault 1 side 2 truth 0.991 est 0.997 (+0.61 %) zx -3.65 shz +2.28 ABSTAIN response-shape change near a sensor (shape z +2.28); fast and wideband drift disagree (z_x -3.65)
+29 gap 55 h 1000 fault 0 side 1 truth 1.089 est 1.086 (-0.26 %) zx -1.16 shz +0.11 
+30 gap 55 h 1000 fault 0 side 1 truth 1.140 est 1.134 (-0.60 %) zx -0.05 shz -0.19 
+31 gap 40 h 8000 fault 0 side 2 truth 1.017 est 1.017 (-0.00 %) zx +0.18 shz -0.33 
+32 gap 40 h 8000 fault 1 side 1 truth 0.942 est 0.937 (-0.56 %) zx +4.21 shz -3.64 ABSTAIN response-shape change near a sensor (shape z -3.64); fast and wideband drift disagree (z_x +4.21)
+33 gap 55 h 1000 fault 0 side 2 truth 1.012 est 1.011 (-0.16 %) zx +1.11 shz -0.19 
+34 gap 55 h 8000 fault 0 side 1 truth 1.195 est 1.189 (-0.56 %) zx -0.88 shz +0.57 
+35 gap 40 h 1000 fault 0 side 2 truth 1.091 est 1.083 (-0.72 %) zx +0.03 shz +0.25 
+36 gap 25 h 8000 fault 0 side 2 truth 0.973 est 0.973 (-0.04 %) zx -1.38 shz +0.86 
+37 gap 25 h 8000 fault 0 side 2 truth 1.216 est 1.206 (-0.82 %) zx +0.83 shz -0.59 
+38 gap 25 h 1000 fault 0 side 1 truth 1.192 est 1.156 (-2.99 %) zx -1.81 shz -1.06 
+39 gap 55 h 8000 fault 0 side 1 truth 0.930 est 0.927 (-0.34 %) zx -0.14 shz -1.06 
+40 gap 40 h 1000 fault 1 side 1 truth 0.926 est 0.931 (+0.51 %) zx +4.54 shz -4.02 ABSTAIN response-shape change near a sensor (shape z -4.02); fast and wideband drift disagree (z_x +4.54)
+41 gap 40 h 1000 fault 1 side 2 truth 0.853 est 0.871 (+2.02 %) zx -4.00 shz +3.45 ABSTAIN response-shape change near a sensor (shape z +3.45); fast and wideband drift disagree (z_x -4.00)
+42 gap 40 h 8000 fault 1 side 1 truth 1.008 est 0.997 (-1.05 %) zx +7.15 shz -4.62 ABSTAIN response-shape change near a sensor (shape z -4.62); fast and wideband drift disagree (z_x +7.15)
+43 gap 40 h 1000 fault 1 side 2 truth 0.872 est 0.892 (+2.27 %) zx -4.94 shz +2.93 ABSTAIN response-shape change near a sensor (shape z +2.93); fast and wideband drift disagree (z_x -4.94)
+44 gap 25 h 8000 fault 1 side 1 truth 1.026 est 1.017 (-0.86 %) zx +2.93 shz -2.35 ABSTAIN response-shape change near a sensor (shape z -2.35); fast and wideband drift disagree (z_x +2.93)
+45 gap 55 h 8000 fault 0 side 2 truth 1.159 est 1.154 (-0.40 %) zx +0.44 shz -1.72 
+46 gap 55 h 1000 fault 0 side 1 truth 0.930 est 0.935 (+0.55 %) zx -0.05 shz +0.59 
+47 gap 40 h 8000 fault 1 side 2 truth 1.015 est 1.029 (+1.36 %) zx -3.00 shz +1.31 ABSTAIN fast and wideband drift disagree (z_x -3.00)
+48 gap 40 h 8000 fault 1 side 2 truth 1.154 est 1.165 (+0.95 %) zx -5.70 shz +6.07 ABSTAIN response-shape change near a sensor (shape z +6.07); fast and wideband drift disagree (z_x -5.70)
+49 gap 55 h 1000 fault 0 side 1 truth 0.879 est 0.886 (+0.76 %) zx -0.38 shz -0.91 
+50 gap 40 h 8000 fault 0 side 1 truth 0.918 est 0.918 (-0.02 %) zx +0.60 shz -0.34 
+51 gap 55 h 1000 fault 0 side 2 truth 1.064 est 1.064 (-0.01 %) zx +0.86 shz -1.25 
+52 gap 55 h 1000 fault 0 side 2 truth 0.998 est 0.996 (-0.22 %) zx +0.15 shz -0.17 
+53 gap 25 h 8000 fault 0 side 2 truth 0.998 est 0.994 (-0.38 %) zx +0.37 shz -1.32 
+54 gap 40 h 8000 fault 0 side 1 truth 1.026 est 1.019 (-0.65 %) zx +0.56 shz -0.46 
+55 gap 40 h 8000 fault 1 side 2 truth 1.273 est 1.292 (+1.50 %) zx -6.84 shz +4.58 ABSTAIN response-shape change near a sensor (shape z +4.58); fast and wideband drift disagree (z_x -6.84)
+56 gap 25 h 1000 fault 0 side 2 truth 1.300 est 1.237 (-4.86 %) zx -1.45 shz -0.12 
+57 gap 40 h 8000 fault 0 side 2 truth 1.226 est 1.221 (-0.41 %) zx -0.01 shz -0.50 
+58 gap 25 h 1000 fault 1 side 1 truth 1.133 est 1.111 (-1.97 %) zx +4.58 shz -4.18 ABSTAIN response-shape change near a sensor (shape z -4.18); fast and wideband drift disagree (z_x +4.58)
+59 gap 55 h 1000 fault 0 side 2 truth 0.845 est 0.858 (+1.53 %) zx +3.70 shz -0.96 ABSTAIN fast and wideband drift disagree (z_x +3.70)
+60 gap 25 h 1000 fault 0 side 1 truth 0.936 est 0.950 (+1.52 %) zx +1.75 shz -0.43 
+61 gap 55 h 8000 fault 0 side 2 truth 1.170 est 1.164 (-0.47 %) zx +0.64 shz -0.04 
+62 gap 55 h 8000 fault 0 side 1 truth 0.786 est 0.792 (+0.65 %) zx +0.22 shz -0.00 
+63 gap 55 h 1000 fault 1 side 1 truth 1.101 est 1.089 (-1.13 %) zx +4.24 shz -2.24 ABSTAIN fast and wideband drift disagree (z_x +4.24)
+64 gap 25 h 8000 fault 0 side 2 truth 0.884 est 0.888 (+0.38 %) zx -0.23 shz +0.90 
+65 gap 55 h 1000 fault 0 side 2 truth 1.320 est 1.294 (-2.02 %) zx -2.47 shz +0.26 ABSTAIN fast and wideband drift disagree (z_x -2.47)
+66 gap 40 h 1000 fault 0 side 1 truth 0.851 est 0.873 (+2.55 %) zx +1.39 shz -1.53 
+67 gap 40 h 8000 fault 0 side 2 truth 0.902 est 0.896 (-0.62 %) zx -0.88 shz -0.23 
+68 gap 25 h 8000 fault 0 side 1 truth 0.860 est 0.862 (+0.28 %) zx -0.96 shz +1.56 
+69 gap 40 h 1000 fault 1 side 1 truth 1.034 est 1.024 (-0.95 %) zx +4.91 shz -3.48 ABSTAIN response-shape change near a sensor (shape z -3.48); fast and wideband drift disagree (z_x +4.91)
+70 gap 55 h 1000 fault 0 side 2 truth 0.891 est 0.900 (+1.04 %) zx -0.58 shz +0.56 
+71 gap 25 h 1000 fault 1 side 2 truth 1.111 est 1.093 (-1.64 %) zx -6.69 shz +5.77 ABSTAIN response-shape change near a sensor (shape z +5.77); fast and wideband drift disagree (z_x -6.69)
+72 gap 40 h 1000 fault 0 side 1 truth 0.964 est 0.973 (+0.88 %) zx +0.81 shz -0.70 
+73 gap 55 h 8000 fault 0 side 1 truth 0.813 est 0.814 (+0.09 %) zx -0.01 shz -0.07 
+74 gap 25 h 1000 fault 0 side 2 truth 0.877 est 0.900 (+2.66 %) zx +0.96 shz -0.30 
+75 gap 55 h 1000 fault 1 side 1 truth 1.000 est 0.990 (-0.98 %) zx +5.24 shz -2.74 ABSTAIN response-shape change near a sensor (shape z -2.74); fast and wideband drift disagree (z_x +5.24)
+76 gap 25 h 1000 fault 1 side 1 truth 1.045 est 1.034 (-1.01 %) zx +3.30 shz -1.20 ABSTAIN fast and wideband drift disagree (z_x +3.30)
+77 gap 55 h 1000 fault 0 side 1 truth 0.998 est 0.999 (+0.06 %) zx -1.52 shz +1.00 
+78 gap 25 h 8000 fault 0 side 1 truth 1.127 est 1.123 (-0.36 %) zx -1.41 shz +0.39 
+79 gap 55 h 1000 fault 0 side 2 truth 1.137 est 1.123 (-1.20 %) zx -1.23 shz +1.28 
+80 gap 55 h 1000 fault 1 side 1 truth 0.876 est 0.884 (+0.91 %) zx +3.35 shz -3.01 ABSTAIN response-shape change near a sensor (shape z -3.01); fast and wideband drift disagree (z_x +3.35)
+81 gap 25 h 1000 fault 0 side 2 truth 1.055 est 1.046 (-0.89 %) zx -1.84 shz -0.12 
+82 gap 25 h 1000 fault 0 side 2 truth 1.106 est 1.092 (-1.21 %) zx +1.20 shz -1.99 
+83 gap 55 h 8000 fault 0 side 2 truth 1.006 est 1.010 (+0.41 %) zx -0.36 shz +0.36 
+84 gap 25 h 8000 fault 0 side 2 truth 0.864 est 0.868 (+0.36 %) zx -0.30 shz -0.01 
+85 gap 40 h 1000 fault 1 side 1 truth 1.124 est 1.106 (-1.61 %) zx +2.53 shz -2.37 ABSTAIN response-shape change near a sensor (shape z -2.37); fast and wideband drift disagree (z_x +2.53)
+86 gap 55 h 8000 fault 0 side 1 truth 1.181 est 1.175 (-0.47 %) zx -0.25 shz +0.42 
+87 gap 40 h 1000 fault 0 side 2 truth 0.789 est 0.813 (+3.05 %) zx +0.23 shz +0.79 
+88 gap 25 h 8000 fault 0 side 2 truth 1.012 est 1.012 (+0.04 %) zx -0.07 shz -0.81 
+89 gap 25 h 8000 fault 0 side 2 truth 0.932 est 0.938 (+0.64 %) zx +1.82 shz -2.36 ABSTAIN response-shape change near a sensor (shape z -2.36)
+90 gap 40 h 1000 fault 1 side 2 truth 0.865 est 0.883 (+2.01 %) zx -3.55 shz +2.73 ABSTAIN response-shape change near a sensor (shape z +2.73); fast and wideband drift disagree (z_x -3.55)
+91 gap 40 h 1000 fault 0 side 1 truth 1.030 est 1.029 (-0.14 %) zx +1.25 shz -1.75 
+92 gap 55 h 1000 fault 0 side 1 truth 0.885 est 0.895 (+1.08 %) zx -0.15 shz +1.28 
+93 gap 40 h 8000 fault 0 side 2 truth 0.983 est 0.985 (+0.21 %) zx +0.03 shz -0.18 
+94 gap 40 h 1000 fault 0 side 2 truth 0.795 est 0.814 (+2.38 %) zx +1.67 shz +0.65 
+95 gap 40 h 8000 fault 0 side 2 truth 1.023 est 1.022 (-0.03 %) zx -0.06 shz +0.71 
+96 gap 40 h 1000 fault 0 side 1 truth 1.038 est 1.033 (-0.52 %) zx +0.07 shz -0.50 
+97 gap 55 h 1000 fault 0 side 1 truth 0.998 est 0.999 (+0.17 %) zx -0.26 shz +0.41 
+98 gap 55 h 1000 fault 0 side 2 truth 0.867 est 0.872 (+0.58 %) zx -1.43 shz -0.35 
+99 gap 55 h 8000 fault 1 side 2 truth 0.867 est 0.877 (+1.16 %) zx -6.46 shz +4.60 ABSTAIN response-shape change near a sensor (shape z +4.60); fast and wideband drift disagree (z_x -6.46)
+
+sink: clean n 68 reported 65; interface n 32 (module 1: 17, module 2: 15)
+D1 clean |err|<=3 %: 0.969 -> PASS
+D2 coverage: 1.000 -> PASS
+D3 interface abstain or |err|<=3 %: 1.000 -> PASS
+D4 clean abstention: 0.044 -> PASS
+  interface faults of module 1: abstained 17, reported within 3 % 0, reported beyond 3 % 0
+  interface faults of module 2: abstained 15, reported within 3 % 0, reported beyond 3 % 0
+clean |err| median 0.47 %, max 4.86 %

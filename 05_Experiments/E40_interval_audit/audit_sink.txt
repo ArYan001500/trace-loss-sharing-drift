@@ -1,0 +1,4 @@
+sink: clean reported n = 65; envelope factor 1/k = 1.6737 (c = 0.25, L = ln(1/0.85))
+  base: coverage 0.800   median half-width 1.29 %
+  v6  : coverage 1.000   median half-width 5.15 %
+  env : coverage 1.000   median half-width 5.17 %

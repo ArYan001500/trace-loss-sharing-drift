@@ -1,0 +1,4 @@
+steps used: 35 (block length >= 3000 s)
+fast (slope jump, K/s per W): sensor Q_h own 0.07546 other -0.05876 -> coupling -0.779; sensor Q_l own 0.1327 other 0.09553 -> coupling 0.720
+slow (settled rise, K per W): sensor Q_h own 18.61 other 12.34 -> coupling 0.663; sensor Q_l own 20.55 other 12.05 -> coupling 0.587
+ratio recovery: no step with both powers rising or falling; not evaluated

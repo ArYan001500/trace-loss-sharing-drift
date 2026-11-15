@@ -1,0 +1,6 @@
+02_Data/
+results/
+__pycache__/
+*.pyc
+05_Experiments/E36_posthoc_review/_tmp_*.csv
+05_Experiments/E40_interval_audit/_tmp_*.csv

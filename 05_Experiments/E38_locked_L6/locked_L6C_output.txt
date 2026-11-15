@@ -1,0 +1,109 @@
+ 0 1.0 rb 1.00 side 2 truth 1.123 est 1.117 err -0.48 % zx +1.43 shz -1.05 
+ 1 2.0 rb 1.00 side 2 truth 0.978 est 0.981 err +0.30 % zx +0.92 shz -0.21 
+ 2 2.0 rb 1.20 side 2 truth 1.012 est 0.898 err -11.27 % zx -2.90 shz -0.10 ABSTAIN fast and wideband drift disagree (z_x -2.90)
+ 3 1.0 rb 1.00 side 1 truth 0.846 est 0.852 err +0.62 % zx +0.67 shz -0.87 
+ 4 0.5 rb 1.39 side 1 truth 1.028 est 1.255 err +22.06 % zx +3.79 shz -7.29 ABSTAIN response-shape change near a sensor (shape z -7.29); fast and wideband drift disagree (z_x +3.79)
+ 5 0.5 rb 1.00 side 2 truth 0.993 est 0.999 err +0.63 % zx -0.35 shz -0.18 
+ 6 2.0 rb 1.00 side 2 truth 0.871 est 0.873 err +0.17 % zx -0.40 shz +1.07 
+ 7 0.5 rb 1.00 side 1 truth 1.081 est 1.077 err -0.37 % zx -0.20 shz +0.66 
+ 8 2.0 rb 1.00 side 2 truth 1.113 est 1.115 err +0.22 % zx +0.14 shz +0.82 
+ 9 0.5 rb 1.00 side 1 truth 0.999 est 1.003 err +0.37 % zx -0.57 shz +0.78 
+10 2.0 rb 1.00 side 2 truth 0.878 est 0.885 err +0.82 % zx +0.55 shz +0.40 
+11 0.5 rb 1.00 side 2 truth 0.967 est 0.974 err +0.66 % zx -0.18 shz +0.09 
+12 2.0 rb 1.27 side 1 truth 1.128 est 1.313 err +16.41 % zx +5.15 shz -1.34 ABSTAIN fast and wideband drift disagree (z_x +5.15)
+13 2.0 rb 1.00 side 1 truth 0.912 est 0.919 err +0.84 % zx +1.22 shz -0.95 
+14 2.0 rb 1.00 side 2 truth 1.100 est 1.096 err -0.40 % zx -0.21 shz -0.18 
+15 0.5 rb 1.19 side 1 truth 0.832 est 0.931 err +11.96 % zx +1.73 shz -2.29 ABSTAIN response-shape change near a sensor (shape z -2.29)
+16 0.5 rb 1.00 side 1 truth 0.988 est 0.991 err +0.24 % zx +0.57 shz -0.12 
+17 0.5 rb 1.00 side 2 truth 1.007 est 1.015 err +0.82 % zx +1.04 shz -0.71 
+18 0.5 rb 1.00 side 2 truth 1.096 est 1.085 err -1.02 % zx -0.58 shz +0.73 
+19 2.0 rb 1.00 side 1 truth 0.968 est 0.967 err -0.19 % zx +0.90 shz -0.71 
+20 1.0 rb 1.33 side 1 truth 0.955 est 1.143 err +19.68 % zx +7.53 shz -4.57 ABSTAIN response-shape change near a sensor (shape z -4.57); fast and wideband drift disagree (z_x +7.53)
+21 2.0 rb 1.00 side 1 truth 0.984 est 0.983 err -0.04 % zx +0.42 shz -0.70 
+22 1.0 rb 1.00 side 1 truth 0.995 est 0.996 err +0.06 % zx +0.27 shz -0.08 
+23 1.0 rb 1.00 side 1 truth 0.893 est 0.893 err +0.01 % zx +0.08 shz -0.49 
+24 1.0 rb 1.00 side 1 truth 0.908 est 0.906 err -0.22 % zx -0.50 shz +0.38 
+25 1.0 rb 1.00 side 1 truth 0.970 est 0.973 err +0.25 % zx -0.09 shz +1.06 
+26 2.0 rb 1.00 side 1 truth 1.044 est 1.046 err +0.14 % zx +2.09 shz -1.19 
+27 1.0 rb 1.00 side 1 truth 0.848 est 0.853 err +0.64 % zx -0.26 shz +0.15 
+28 0.5 rb 1.00 side 2 truth 1.002 est 0.989 err -1.24 % zx -1.32 shz -1.27 
+29 1.0 rb 1.00 side 1 truth 0.853 est 0.864 err +1.27 % zx -0.21 shz +0.99 
+30 2.0 rb 1.00 side 1 truth 1.142 est 1.138 err -0.29 % zx -0.01 shz +0.44 
+31 2.0 rb 1.00 side 2 truth 0.911 est 0.916 err +0.55 % zx +0.64 shz -0.61 
+32 0.5 rb 1.00 side 1 truth 0.946 est 0.951 err +0.52 % zx +2.24 shz -0.28 
+33 1.0 rb 1.00 side 1 truth 1.068 est 1.073 err +0.45 % zx +0.45 shz +0.08 
+34 1.0 rb 1.20 side 2 truth 0.906 est 0.809 err -10.69 % zx -5.81 shz +2.51 ABSTAIN response-shape change near a sensor (shape z +2.51); fast and wideband drift disagree (z_x -5.81)
+35 1.0 rb 1.00 side 1 truth 0.874 est 0.878 err +0.39 % zx -1.15 shz +0.50 
+36 2.0 rb 1.00 side 2 truth 0.963 est 0.968 err +0.54 % zx -0.39 shz +0.47 
+37 1.0 rb 1.37 side 1 truth 0.928 est 1.131 err +21.82 % zx +4.88 shz -3.49 ABSTAIN response-shape change near a sensor (shape z -3.49); fast and wideband drift disagree (z_x +4.88)
+38 2.0 rb 1.25 side 1 truth 1.252 est 1.423 err +13.65 % zx +4.45 shz -1.07 ABSTAIN fast and wideband drift disagree (z_x +4.45)
+39 0.5 rb 1.00 side 2 truth 1.046 est 1.038 err -0.69 % zx -0.94 shz -0.97 
+40 0.5 rb 1.00 side 1 truth 1.044 est 1.036 err -0.75 % zx +0.23 shz -0.34 
+41 1.0 rb 1.00 side 2 truth 1.261 est 1.243 err -1.47 % zx -0.02 shz +0.45 
+42 1.0 rb 1.00 side 1 truth 0.980 est 0.989 err +0.96 % zx +1.07 shz -0.87 
+43 1.0 rb 1.00 side 2 truth 1.201 est 1.201 err +0.00 % zx +0.55 shz -0.66 
+44 1.0 rb 1.00 side 2 truth 0.975 est 0.984 err +0.84 % zx +0.26 shz -1.31 
+45 0.5 rb 1.00 side 1 truth 1.060 est 1.076 err +1.56 % zx +0.11 shz +1.32 
+46 0.5 rb 1.00 side 2 truth 0.980 est 0.981 err +0.11 % zx -0.10 shz +0.76 
+47 2.0 rb 1.00 side 2 truth 1.061 est 1.053 err -0.83 % zx -1.33 shz +0.81 
+48 2.0 rb 1.00 side 2 truth 1.039 est 1.049 err +0.95 % zx +0.60 shz +0.27 
+49 0.5 rb 1.00 side 1 truth 1.256 est 1.253 err -0.26 % zx -0.05 shz -0.04 
+50 2.0 rb 1.00 side 1 truth 0.991 est 0.983 err -0.79 % zx -0.32 shz +0.11 
+51 2.0 rb 1.32 side 1 truth 1.148 est 1.368 err +19.13 % zx +7.04 shz -2.06 ABSTAIN fast and wideband drift disagree (z_x +7.04)
+52 1.0 rb 1.00 side 1 truth 1.145 est 1.136 err -0.79 % zx -0.38 shz +0.77 
+53 1.0 rb 1.00 side 2 truth 0.877 est 0.882 err +0.52 % zx -0.59 shz -0.85 
+54 0.5 rb 1.00 side 1 truth 0.857 est 0.857 err -0.02 % zx -0.56 shz +0.25 
+55 0.5 rb 1.00 side 1 truth 0.823 est 0.840 err +2.04 % zx +1.17 shz -0.50 
+56 0.5 rb 1.00 side 1 truth 0.939 est 0.961 err +2.39 % zx +1.19 shz -0.82 
+57 2.0 rb 1.00 side 1 truth 0.914 est 0.925 err +1.24 % zx +0.63 shz -0.01 
+58 1.0 rb 1.23 side 2 truth 1.037 est 0.903 err -12.93 % zx -1.97 shz +1.88 
+59 2.0 rb 1.00 side 2 truth 1.028 est 1.032 err +0.35 % zx -0.60 shz +0.67 
+60 0.5 rb 1.00 side 1 truth 0.977 est 0.983 err +0.66 % zx -1.45 shz -0.10 
+61 1.0 rb 1.00 side 2 truth 0.883 est 0.884 err +0.07 % zx -1.87 shz +0.29 
+62 1.0 rb 1.20 side 2 truth 0.893 est 0.807 err -9.71 % zx -3.25 shz +2.91 ABSTAIN response-shape change near a sensor (shape z +2.91); fast and wideband drift disagree (z_x -3.25)
+63 1.0 rb 1.00 side 1 truth 0.894 est 0.903 err +0.97 % zx +2.21 shz -1.47 
+64 1.0 rb 1.00 side 2 truth 1.036 est 1.030 err -0.61 % zx +0.28 shz -0.44 
+65 1.0 rb 1.00 side 2 truth 1.151 est 1.144 err -0.57 % zx -0.18 shz +0.20 
+66 2.0 rb 1.30 side 1 truth 0.909 est 1.089 err +19.80 % zx +4.47 shz -2.27 ABSTAIN response-shape change near a sensor (shape z -2.27); fast and wideband drift disagree (z_x +4.47)
+67 0.5 rb 1.00 side 2 truth 1.092 est 1.094 err +0.16 % zx +0.21 shz +1.40 
+68 1.0 rb 1.00 side 1 truth 1.108 est 1.098 err -0.93 % zx +0.57 shz -0.18 
+69 1.0 rb 1.00 side 1 truth 1.050 est 1.053 err +0.27 % zx +0.94 shz -1.65 
+70 2.0 rb 1.00 side 2 truth 0.933 est 0.944 err +1.16 % zx -0.20 shz -0.06 
+71 2.0 rb 1.00 side 1 truth 0.810 est 0.814 err +0.48 % zx +0.04 shz +0.01 
+72 2.0 rb 1.00 side 2 truth 0.901 est 0.914 err +1.48 % zx -0.20 shz +0.25 
+73 1.0 rb 1.00 side 1 truth 1.282 est 1.272 err -0.76 % zx -0.16 shz +0.41 
+74 1.0 rb 1.00 side 1 truth 0.950 est 0.956 err +0.64 % zx +0.73 shz -0.31 
+75 1.0 rb 1.00 side 1 truth 1.009 est 1.012 err +0.31 % zx -0.52 shz +0.46 
+76 1.0 rb 1.30 side 1 truth 0.811 est 0.965 err +19.06 % zx +5.47 shz -2.90 ABSTAIN response-shape change near a sensor (shape z -2.90); fast and wideband drift disagree (z_x +5.47)
+77 1.0 rb 1.00 side 1 truth 0.867 est 0.871 err +0.45 % zx +0.63 shz -0.05 
+78 0.5 rb 1.00 side 2 truth 1.036 est 1.041 err +0.46 % zx +0.33 shz -0.23 
+79 2.0 rb 1.23 side 1 truth 0.934 est 1.051 err +12.50 % zx +5.64 shz -2.29 ABSTAIN response-shape change near a sensor (shape z -2.29); fast and wideband drift disagree (z_x +5.64)
+80 1.0 rb 1.00 side 1 truth 0.916 est 0.922 err +0.61 % zx +0.81 shz -0.70 
+81 1.0 rb 1.00 side 1 truth 1.065 est 1.062 err -0.23 % zx +0.39 shz -0.38 
+82 1.0 rb 1.00 side 1 truth 1.159 est 1.153 err -0.52 % zx -0.87 shz +1.47 
+83 1.0 rb 1.00 side 2 truth 1.026 est 1.031 err +0.50 % zx +0.13 shz -0.42 
+84 2.0 rb 1.34 side 1 truth 1.003 est 1.226 err +22.27 % zx +5.63 shz -0.67 ABSTAIN fast and wideband drift disagree (z_x +5.63)
+85 1.0 rb 1.00 side 2 truth 0.862 est 0.865 err +0.43 % zx -1.33 shz +1.40 
+86 2.0 rb 1.00 side 2 truth 1.010 est 1.019 err +0.86 % zx -0.31 shz -0.38 
+87 0.5 rb 1.27 side 1 truth 0.971 est 1.152 err +18.59 % zx +4.62 shz -3.16 ABSTAIN response-shape change near a sensor (shape z -3.16); fast and wideband drift disagree (z_x +4.62)
+88 1.0 rb 1.00 side 2 truth 1.088 est 1.084 err -0.41 % zx +0.04 shz +0.49 
+89 0.5 rb 1.00 side 2 truth 0.859 est 0.870 err +1.30 % zx +0.66 shz -0.02 
+90 1.0 rb 1.36 side 2 truth 0.989 est 0.815 err -17.61 % zx -5.49 shz +3.52 ABSTAIN response-shape change near a sensor (shape z +3.52); fast and wideband drift disagree (z_x -5.49)
+91 1.0 rb 1.00 side 2 truth 1.059 est 1.049 err -0.86 % zx -0.31 shz +0.44 
+92 2.0 rb 1.24 side 1 truth 1.017 est 1.160 err +14.03 % zx +5.58 shz -1.72 ABSTAIN fast and wideband drift disagree (z_x +5.58)
+93 1.0 rb 1.00 side 1 truth 0.945 est 0.946 err +0.11 % zx +0.59 shz -0.75 
+94 1.0 rb 1.00 side 1 truth 1.097 est 1.093 err -0.42 % zx -0.24 shz -1.04 
+95 2.0 rb 1.18 side 2 truth 0.927 est 0.837 err -9.64 % zx -1.03 shz +0.01 
+96 1.0 rb 1.00 side 1 truth 1.063 est 1.060 err -0.26 % zx -0.28 shz +0.42 
+97 1.0 rb 1.00 side 1 truth 0.936 est 0.935 err -0.05 % zx +0.16 shz -0.27 
+98 2.0 rb 1.00 side 2 truth 1.099 est 1.094 err -0.43 % zx -1.11 shz +1.01 
+99 2.0 rb 1.00 side 2 truth 0.889 est 0.895 err +0.62 % zx -0.03 shz -0.24 
+
+Cauer: clean n 81 reported 81; interface n 19 (module 1: 13, module 2: 6)
+D1 clean |err|<=3 %: 1.000 -> PASS
+D2 coverage: 1.000 -> PASS
+D3 interface abstain or |err|<=3 %: 0.895 -> PASS
+D4 clean abstention: 0.000 -> PASS
+  interface faults of module 1: abstained 13, reported within 3 % 0, reported beyond 3 % 0
+  interface faults of module 2: abstained 4, reported within 3 % 0, reported beyond 3 % 2
+clean |err| median 0.52 %, max 2.39 %

@@ -1,0 +1,69 @@
+ 0 gap 25 h 1000 fault 1 side 1 truth 1.128 est 1.217 (+7.96 %) zx -1.55 shz -4.89 ABSTAIN response-shape change near a sensor (shape z -4.89)
+ 1 gap 25 h 8000 fault 0 side 1 truth 1.130 est 1.127 (-0.21 %) zx -0.11 shz +0.04 
+ 2 gap 40 h 1000 fault 0 side 1 truth 1.061 est 1.052 (-0.90 %) zx -1.12 shz +0.72 
+ 3 gap 25 h 8000 fault 0 side 2 truth 0.983 est 0.985 (+0.17 %) zx -0.44 shz -0.15 
+ 4 gap 55 h 8000 fault 0 side 2 truth 0.951 est 0.952 (+0.10 %) zx -1.32 shz -0.37 
+ 5 gap 40 h 8000 fault 0 side 2 truth 1.085 est 1.086 (+0.05 %) zx -0.21 shz -0.78 
+ 6 gap 40 h 1000 fault 0 side 1 truth 0.923 est 0.929 (+0.59 %) zx +0.56 shz -0.10 
+ 7 gap 40 h 8000 fault 0 side 1 truth 1.174 est 1.172 (-0.11 %) zx +0.86 shz -0.48 
+ 8 gap 55 h 1000 fault 1 side 2 truth 0.907 est 0.832 (-8.32 %) zx +0.41 shz +3.54 ABSTAIN response-shape change near a sensor (shape z +3.54)
+ 9 gap 25 h 8000 fault 0 side 2 truth 0.912 est 0.917 (+0.49 %) zx -0.13 shz +0.39 
+10 gap 25 h 8000 fault 1 side 1 truth 1.117 est 1.242 (+11.19 %) zx +1.86 shz -3.02 ABSTAIN response-shape change near a sensor (shape z -3.02)
+11 gap 40 h 8000 fault 1 side 1 truth 1.212 est 1.353 (+11.60 %) zx +2.06 shz -3.25 ABSTAIN response-shape change near a sensor (shape z -3.25)
+12 gap 55 h 8000 fault 0 side 1 truth 0.969 est 0.971 (+0.18 %) zx -1.37 shz +0.93 
+13 gap 25 h 8000 fault 0 side 1 truth 0.954 est 0.956 (+0.22 %) zx +0.32 shz -0.28 
+14 gap 40 h 8000 fault 1 side 2 truth 0.890 est 0.794 (-10.77 %) zx -1.85 shz +2.85 ABSTAIN response-shape change near a sensor (shape z +2.85)
+15 gap 40 h 8000 fault 0 side 2 truth 0.990 est 0.992 (+0.12 %) zx -0.39 shz +0.19 
+16 gap 40 h 8000 fault 0 side 1 truth 0.953 est 0.952 (-0.14 %) zx -1.54 shz +0.61 
+17 gap 40 h 8000 fault 1 side 2 truth 1.029 est 0.924 (-10.25 %) zx -1.28 shz +3.10 ABSTAIN response-shape change near a sensor (shape z +3.10)
+18 gap 25 h 8000 fault 0 side 1 truth 1.014 est 1.015 (+0.09 %) zx +1.42 shz -1.58 
+19 gap 40 h 8000 fault 0 side 1 truth 1.149 est 1.143 (-0.56 %) zx -0.10 shz -0.97 
+20 gap 55 h 1000 fault 0 side 2 truth 1.120 est 1.116 (-0.39 %) zx -0.80 shz -0.22 
+21 gap 25 h 8000 fault 1 side 2 truth 1.209 est 1.075 (-11.09 %) zx -2.76 shz +2.36 ABSTAIN response-shape change near a sensor (shape z +2.36); fast and wideband drift disagree (z_x -2.76)
+22 gap 55 h 1000 fault 1 side 2 truth 1.002 est 0.914 (-8.81 %) zx +1.26 shz +4.20 ABSTAIN response-shape change near a sensor (shape z +4.20)
+23 gap 40 h 1000 fault 0 side 2 truth 1.081 est 1.075 (-0.56 %) zx -0.67 shz -0.38 
+24 gap 55 h 1000 fault 0 side 1 truth 1.211 est 1.204 (-0.57 %) zx -0.17 shz -1.07 
+25 gap 40 h 8000 fault 1 side 1 truth 1.272 est 1.420 (+11.66 %) zx +2.66 shz -4.70 ABSTAIN response-shape change near a sensor (shape z -4.70); fast and wideband drift disagree (z_x +2.66)
+26 gap 55 h 1000 fault 1 side 2 truth 1.129 est 1.027 (-9.03 %) zx -0.96 shz +5.26 ABSTAIN response-shape change near a sensor (shape z +5.26)
+27 gap 55 h 1000 fault 0 side 1 truth 0.878 est 0.884 (+0.62 %) zx +0.44 shz +0.32 
+28 gap 25 h 1000 fault 0 side 1 truth 1.164 est 1.151 (-1.09 %) zx -0.30 shz -0.51 
+29 gap 55 h 1000 fault 1 side 2 truth 1.321 est 1.200 (-9.20 %) zx -0.03 shz +2.45 ABSTAIN response-shape change near a sensor (shape z +2.45)
+30 gap 55 h 8000 fault 0 side 1 truth 1.103 est 1.104 (+0.11 %) zx +0.31 shz -0.73 
+31 gap 40 h 8000 fault 0 side 2 truth 0.961 est 0.960 (-0.06 %) zx -0.90 shz +0.79 
+32 gap 25 h 8000 fault 0 side 2 truth 1.191 est 1.189 (-0.13 %) zx -0.23 shz -0.33 
+33 gap 55 h 1000 fault 0 side 1 truth 1.078 est 1.074 (-0.35 %) zx -0.33 shz -0.95 
+34 gap 25 h 1000 fault 0 side 1 truth 1.078 est 1.074 (-0.38 %) zx -3.04 shz +0.65 ABSTAIN fast and wideband drift disagree (z_x -3.04)
+35 gap 25 h 1000 fault 0 side 2 truth 0.984 est 0.987 (+0.25 %) zx -0.57 shz -0.42 
+36 gap 55 h 8000 fault 1 side 1 truth 0.992 est 1.109 (+11.89 %) zx +1.14 shz -2.12 
+37 gap 55 h 8000 fault 0 side 1 truth 0.901 est 0.901 (+0.04 %) zx +0.25 shz -0.22 
+38 gap 55 h 8000 fault 0 side 2 truth 1.067 est 1.063 (-0.32 %) zx -0.35 shz -0.24 
+39 gap 40 h 1000 fault 0 side 1 truth 1.246 est 1.230 (-1.25 %) zx -0.48 shz -0.84 
+40 gap 25 h 1000 fault 0 side 2 truth 0.950 est 0.952 (+0.16 %) zx +0.14 shz -0.08 
+41 gap 25 h 8000 fault 1 side 2 truth 1.021 est 0.915 (-10.39 %) zx -1.20 shz +2.74 ABSTAIN response-shape change near a sensor (shape z +2.74)
+42 gap 25 h 1000 fault 0 side 2 truth 0.908 est 0.915 (+0.75 %) zx +1.17 shz -0.27 
+43 gap 40 h 1000 fault 0 side 1 truth 1.202 est 1.187 (-1.19 %) zx -1.62 shz -0.79 
+44 gap 25 h 1000 fault 0 side 1 truth 0.918 est 0.922 (+0.52 %) zx +0.69 shz -0.53 
+45 gap 40 h 1000 fault 0 side 1 truth 0.865 est 0.873 (+0.98 %) zx +0.56 shz +0.19 
+46 gap 40 h 8000 fault 0 side 2 truth 1.080 est 1.077 (-0.26 %) zx -0.24 shz -0.03 
+47 gap 25 h 1000 fault 0 side 2 truth 0.959 est 0.961 (+0.18 %) zx +2.10 shz -0.84 
+48 gap 40 h 1000 fault 0 side 2 truth 1.168 est 1.163 (-0.44 %) zx -0.76 shz -0.08 
+49 gap 55 h 1000 fault 1 side 2 truth 1.132 est 1.026 (-9.35 %) zx +1.06 shz +2.60 ABSTAIN response-shape change near a sensor (shape z +2.60)
+50 gap 40 h 8000 fault 0 side 2 truth 1.189 est 1.187 (-0.21 %) zx +0.36 shz +0.04 
+51 gap 55 h 8000 fault 0 side 1 truth 0.890 est 0.890 (+0.05 %) zx +1.63 shz -2.39 ABSTAIN response-shape change near a sensor (shape z -2.39)
+52 gap 25 h 1000 fault 0 side 1 truth 1.125 est 1.114 (-0.98 %) zx -0.47 shz -0.16 
+53 gap 25 h 1000 fault 0 side 2 truth 0.854 est 0.864 (+1.19 %) zx +2.04 shz -0.47 
+54 gap 40 h 8000 fault 0 side 2 truth 0.915 est 0.914 (-0.11 %) zx -0.82 shz -1.11 
+55 gap 55 h 8000 fault 0 side 2 truth 0.878 est 0.883 (+0.59 %) zx -0.74 shz -0.23 
+56 gap 55 h 1000 fault 0 side 2 truth 1.069 est 1.068 (-0.08 %) zx -1.84 shz -0.55 
+57 gap 55 h 1000 fault 0 side 1 truth 0.829 est 0.836 (+0.84 %) zx +0.58 shz -0.28 
+58 gap 25 h 1000 fault 0 side 1 truth 1.201 est 1.184 (-1.45 %) zx -1.83 shz +0.82 
+59 gap 55 h 1000 fault 0 side 2 truth 1.008 est 1.008 (-0.04 %) zx +0.25 shz -0.77 
+
+base: clean n 46 reported 44; interface n 14 (module 1: 5, module 2: 9)
+D1 clean |err|<=3 %: 1.000 -> PASS
+D2 coverage: 1.000 -> PASS
+D3 interface abstain or |err|<=3 %: 0.929 -> PASS
+D4 clean abstention: 0.043 -> PASS
+  interface faults of module 1: abstained 4, reported within 3 % 0, reported beyond 3 % 1
+  interface faults of module 2: abstained 9, reported within 3 % 0, reported beyond 3 % 0
+clean |err| median 0.29 %, max 1.45 %

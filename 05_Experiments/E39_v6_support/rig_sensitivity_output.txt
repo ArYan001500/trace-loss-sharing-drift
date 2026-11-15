@@ -1,0 +1,12 @@
+U: transfer drift over 27 settings: min 0.9955, median 0.9994, max 1.0054
+   clock offset 10 s: drift 1.0009 [0.9849, 1.0186], z_x +1.20, shape z -1.77, reported
+   clock offset 11 s: drift 1.0009 [0.9849, 1.0186], z_x +1.78, shape z -1.70, reported
+   clock offset 12 s: drift 1.0009 [0.9849, 1.0186], z_x +1.07, shape z +0.31, reported
+V: transfer drift over 27 settings: min 1.0002, median 1.0007, max 1.0020
+   clock offset 10 s: drift 1.0007 [0.9964, 1.0058], z_x +0.46, shape z -1.03, reported
+   clock offset 11 s: drift 1.0007 [0.9964, 1.0058], z_x -0.08, shape z +0.60, reported
+   clock offset 12 s: drift 1.0007 [0.9964, 1.0058], z_x -1.07, shape z -1.02, reported
+W: transfer drift over 27 settings: min 0.9933, median 0.9980, max 1.0010
+   clock offset 10 s: drift 0.9994 [0.9906, 1.0073], z_x -0.05, shape z -0.67, reported
+   clock offset 11 s: drift 0.9994 [0.9906, 1.0073], z_x +1.71, shape z -1.73, reported
+   clock offset 12 s: drift 0.9994 [0.9906, 1.0073], z_x +1.25, shape z -0.34, reported

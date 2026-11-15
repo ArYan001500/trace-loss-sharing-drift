@@ -1,0 +1,4 @@
+base: clean reported n = 65; envelope factor 1/k = 1.6737 (c = 0.25, L = ln(1/0.85))
+  base: coverage 0.892   median half-width 0.86 %
+  v6  : coverage 1.000   median half-width 5.06 %
+  env : coverage 1.000   median half-width 5.08 %

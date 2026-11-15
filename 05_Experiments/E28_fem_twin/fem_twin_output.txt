@@ -1,0 +1,8 @@
+cells 7, bottom faces 3, nodes 7953
+h 500: own rise at 900 s 62.73 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0007 0.027 0.168 0.330
+cells 7, bottom faces 3, nodes 7953
+h 1000: own rise at 900 s 41.58 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0007 0.025 0.134 0.191
+cells 7, bottom faces 3, nodes 7953
+h 64000: own rise at 900 s 11.98 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0004 0.004 0.004 0.004
+cells 7, bottom faces 3, nodes 24424
+h 8000: own rise at 900 s 17.04 mK/W; coupling at 4, 10, 30, 120, 900 s: 0.0000 0.0006 0.011 0.022 0.022

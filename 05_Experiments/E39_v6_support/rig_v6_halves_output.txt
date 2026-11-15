@@ -1,0 +1,6 @@
+U first->second: drift 1.0009 [0.9849, 1.0186] contains 1: True; v3 0.9846; z_x +1.78, shape z -1.70; reported
+U second->first: drift 0.9999 [0.9859, 1.0140] contains 1: True; v3 1.0157; z_x -1.66, shape z +1.71; reported
+V first->second: drift 1.0007 [0.9964, 1.0058] contains 1: True; v3 1.0010; z_x -0.08, shape z +0.60; reported
+V second->first: drift 0.9986 [0.9930, 1.0024] contains 1: True; v3 0.9990; z_x -0.07, shape z -0.58; reported
+W first->second: drift 0.9994 [0.9906, 1.0073] contains 1: True; v3 0.9815; z_x +1.71, shape z -1.73; reported
+W second->first: drift 0.9998 [0.9873, 1.0123] contains 1: True; v3 1.0189; z_x -1.78, shape z +1.73; reported

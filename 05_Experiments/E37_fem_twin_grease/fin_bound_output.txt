@@ -1,0 +1,13 @@
+file                               gap mm      h lambda mm FEM settled fin bound bound holds
+fem_g25_h1000_rb1_src1.csv             25   1000      64.6      0.2450    0.3491        True
+fem_g25_h8000_rb1_src1.csv             25   8000      22.8      0.0399    0.0510        True
+fem_g40_h1000_rb1_src1.csv             40   1000      64.6      0.1934    0.2768        True
+fem_g40_h8000_rb1_src1.csv             40   8000      22.8      0.0224    0.0264        True
+fem_g55_h1000_rb1_src1.csv             55   1000      64.6      0.1530    0.2194        True
+fem_g55_h8000_rb1_src1.csv             55   8000      22.8      0.0126    0.0137        True
+
+Interval term of TRACE with this bound: |log d| * 2 c / (1 - c). For the rig (gap 40 mm):
+   h   500: c_max 0.403 -> extension 1.351 x |log d|
+   h  1000: c_max 0.277 -> extension 0.765 x |log d|
+   h  2000: c_max 0.163 -> extension 0.388 x |log d|
+   h  8000: c_max 0.026 -> extension 0.054 x |log d|

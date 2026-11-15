@@ -1,0 +1,39 @@
+aluminium diffusivity 6.872e-05 m2/s
+screening rule for slope coupling <= 0.01: Fo = alpha w / d^2 <= 0.0543
+screening rule for slope coupling <= 0.05: Fo = alpha w / d^2 <= 0.0835
+
+Finite-element twin (heat-sink sensor): measured coupling versus the 1D plane-source estimate. d = distance from the sensor to the
+nearest edge of the neighbouring footprint (half module width 43 mm + gap).
+ gap 25 mm, h 1000: Fo(4 s) 0.0595
+   rise  coupling FEM  2.99e-05 3.67e-03 2.46e-02 5.06e-02 1.14e-01   1D 1.36e-03 3.28e-02 1.15e-01 1.86e-01 3.29e-01
+   slope coupling FEM  3.52e-04 2.14e-02 1.12e-01 2.01e-01 3.83e-01   1D 1.49e-02 1.86e-01 4.31e-01 5.71e-01 7.56e-01
+   FEM below the 1D estimate at all listed times ([4, 10, 20, 30, 60] s): True
+ gap 25 mm, h 8000: Fo(4 s) 0.0595
+   rise  coupling FEM  2.90e-05 2.95e-03 1.55e-02 2.62e-02 3.81e-02   1D 1.36e-03 3.28e-02 1.15e-01 1.86e-01 3.29e-01
+   slope coupling FEM  3.33e-04 1.88e-02 9.71e-02 1.77e-01 3.71e-01   1D 1.49e-02 1.86e-01 4.31e-01 5.71e-01 7.56e-01
+   FEM below the 1D estimate at all listed times ([4, 10, 20, 30, 60] s): True
+ gap 40 mm, h 1000: Fo(4 s) 0.0399
+   rise  coupling FEM  1.44e-06 9.27e-04 1.10e-02 2.76e-02 7.63e-02   1D 1.25e-04 1.10e-02 6.06e-02 1.16e-01 2.45e-01
+   slope coupling FEM  2.88e-05 6.85e-03 6.08e-02 1.31e-01 2.98e-01   1D 1.90e-03 8.16e-02 2.86e-01 4.34e-01 6.59e-01
+   FEM below the 1D estimate at all listed times ([4, 10, 20, 30, 60] s): True
+ gap 40 mm, h 8000: Fo(4 s) 0.0399
+   rise  coupling FEM  1.36e-06 7.17e-04 6.44e-03 1.28e-02 2.10e-02   1D 1.25e-04 1.10e-02 6.06e-02 1.16e-01 2.45e-01
+   slope coupling FEM  2.69e-05 5.90e-03 5.07e-02 1.10e-01 2.59e-01   1D 1.90e-03 8.16e-02 2.86e-01 4.34e-01 6.59e-01
+   FEM below the 1D estimate at all listed times ([4, 10, 20, 30, 60] s): True
+ gap 55 mm, h 1000: Fo(4 s) 0.0286
+   rise  coupling FEM  4.14e-08 2.06e-04 4.64e-03 1.45e-02 5.04e-02   1D 7.96e-06 3.19e-03 3.00e-02 6.92e-02 1.79e-01
+   slope coupling FEM  1.90e-06 1.91e-03 3.09e-02 8.19e-02 2.27e-01   1D 1.61e-04 3.04e-02 1.74e-01 3.12e-01 5.59e-01
+   FEM below the 1D estimate at all listed times ([4, 10, 20, 30, 60] s): True
+ gap 55 mm, h 8000: Fo(4 s) 0.0286
+   rise  coupling FEM  3.99e-08 1.54e-04 2.55e-03 6.13e-03 1.16e-02   1D 7.96e-06 3.19e-03 3.00e-02 6.92e-02 1.79e-01
+   slope coupling FEM  1.69e-06 1.61e-03 2.49e-02 6.52e-02 1.94e-01   1D 1.61e-04 3.04e-02 1.74e-01 3.12e-01 5.59e-01
+   FEM below the 1D estimate at all listed times ([4, 10, 20, 30, 60] s): True
+
+Real board, Q_h step: best d^2/alpha = 19.57 s; rms misfit over 1-60 s 0.058
+   t  1 s: measured rise coupling 0.122, 1D shape 0.001
+   t  5 s: measured rise coupling 0.215, 1D shape 0.092
+   t 10 s: measured rise coupling 0.294, 1D shape 0.213
+   t 20 s: measured rise coupling 0.377, 1D shape 0.358
+   t 30 s: measured rise coupling 0.430, 1D shape 0.443
+   t 60 s: measured rise coupling 0.517, 1D shape 0.574
+   implied Fo of a 4 s slope window 0.20 (rig twin about 0.04); slope coupling at 4 s 0.294

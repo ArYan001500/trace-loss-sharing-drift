@@ -1,0 +1,12 @@
+settled coupling at 900 s (below grease, above grease): E28 -> corrected
+gap 25 h 1000: below 0.2421 -> 0.2450   above 0.1665 -> 0.2000
+gap 25 h 8000: below 0.0386 -> 0.0399   above 0.0203 -> 0.0272
+gap 40 h 1000: below 0.1911 -> 0.1934   above 0.1314 -> 0.1578
+gap 40 h 8000: below 0.0217 -> 0.0224   above 0.0114 -> 0.0153
+gap 55 h 1000: below 0.1512 -> 0.1530   above 0.1039 -> 0.1249
+gap 55 h 8000: below 0.0122 -> 0.0126   above 0.0064 -> 0.0086
+interface resistance x1.3 under module 1 (gap 40): own response faulty/clean
+ h 1000 E28: below 4 s 0.859, 900 s 1.003 | above 4 s 1.088, 900 s 1.105
+ h 1000 corrected: below 4 s 0.913, 900 s 1.002 | above 4 s 1.104, 900 s 1.062
+ h 8000 E28: below 4 s 0.859, 900 s 1.004 | above 4 s 1.088, 900 s 1.172
+ h 8000 corrected: below 4 s 0.913, 900 s 1.003 | above 4 s 1.104, 900 s 1.118

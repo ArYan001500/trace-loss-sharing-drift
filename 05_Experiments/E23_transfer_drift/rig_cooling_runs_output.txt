@@ -1,0 +1,12 @@
+Laguerre time constant 20 s, M 4, skip 6 samples
+  U: drift 0.997 [0.990, 1.003]  positions 0.996 0.998 0.997 0.996
+  V: drift 1.000 [0.997, 1.002]  positions 1.000 0.999 1.001 0.999
+  W: drift 0.967 [0.938, 0.997]  positions 0.963 0.963 0.967 0.973  reference 1.010
+Laguerre time constant 30 s, M 4, skip 6 samples
+  U: drift 0.997 [0.989, 1.004]  positions 0.996 0.998 0.997 0.996
+  V: drift 1.000 [0.997, 1.003]  positions 1.000 0.999 1.001 0.999
+  W: drift 0.967 [0.942, 0.993]  positions 0.963 0.963 0.967 0.973  reference 1.010
+Laguerre time constant 20 s, M 3, skip 6 samples
+  U: drift 0.997 [0.990, 1.004]  positions 0.996 0.998 0.997 0.996
+  V: drift 1.000 [0.997, 1.002]  positions 1.000 0.999 1.001 1.000
+  W: drift 0.967 [0.938, 0.996]  positions 0.963 0.963 0.966 0.972  reference 1.010

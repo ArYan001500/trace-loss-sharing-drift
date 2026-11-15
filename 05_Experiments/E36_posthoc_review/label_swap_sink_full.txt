@@ -1,0 +1,10 @@
+sink: clean n 42 reported 41; interface n 18
+D1 clean |err|<=3 %: 1.000 -> PASS
+D2 coverage: 1.000 -> PASS
+D3 interface: 1.000 -> PASS
+D4 clean abstention: 0.024 -> PASS
+clean |err| median 0.53 %, max 2.82 %
+
+sink as locked : D1 1.000  D2 1.000  D3 1.000  D4 0.024  | faults abstained 16/18, reported beyond 3 %: 0; clean abstained 1/42
+sink labels swapped: D1 1.000  D2 1.000  D3 0.889  D4 0.024  | faults abstained 0/18, reported beyond 3 %: 2; clean abstained 1/42
+   errors of faults reported beyond 3 %: [3.4, 3.4]

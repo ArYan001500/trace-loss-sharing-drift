@@ -1,0 +1,8 @@
+fem_base, seed 11: clean 46, interface 14, no estimate 0
+cfg  D1 clean<=3%  D2 coverage  D3 interface  D4 clean abstain  median half-width %
+ A        1.000       0.848         0.000            0.000               0.85
+ B        1.000       0.844         0.929            0.022               0.85
+ C        1.000       0.844         0.143            0.022               0.85
+ D        1.000       0.860         0.357            0.065               0.85
+ E        1.000       0.841         0.929            0.043               0.86
+ F        1.000       1.000         0.929            0.043               4.36

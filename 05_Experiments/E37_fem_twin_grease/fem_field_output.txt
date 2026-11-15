@@ -1,0 +1,2 @@
+cells 7, bottom faces 3, nodes 15295
+field written: fem_field_h1000.csv (15207 points), geometry W 0.272 L 0.220 x1 0.0300 x2 0.1560
